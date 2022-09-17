@@ -1,15 +1,15 @@
 from setuptools import *
 
 LONG_DESC = """
-This is cv2 utilities
+This is cv2 helper
 """
 
-setup(name='pil_utils',
+setup(name='cv2-helper',
 	  version='0.0.1',
-	  description='Cv2 utilities',
+	  description='Cv2 helper',
 	  long_description=LONG_DESC,
 	  author='Sang Ki Kwon',
-	  url='https://github.com/automatethem/cv2_utils',
+	  url='https://github.com/automatethem/cv2-helper',
 	  install_requires=[],
 	  author_email='automatethem@gmail.com',
 	  license='MIT',
